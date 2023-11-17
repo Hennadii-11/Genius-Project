@@ -1,2 +1,2 @@
 # Genius-Project
-Навчання в Genius Space - Full Stack
+Навчання в Genius Space - FullStack
